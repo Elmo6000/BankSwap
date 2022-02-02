@@ -1,6 +1,3 @@
-# BankSwap
-能透過Email 註冊一個帳戶，模擬銀行的功能(換匯、轉帳、存提款)
-
 # 架構
 整體Style參考https://app.uniswap.org/#/swap
 
@@ -19,4 +16,7 @@
 
 在http://127.0.0.1/BankSwap/ 可以看到BankSwap 的介面
 ![image](https://user-images.githubusercontent.com/88305396/149658269-0224fea5-5e39-4389-ac34-818445ff904a.png)
-
+![image](https://user-images.githubusercontent.com/88305396/152166104-b43091ef-2d51-414b-96fb-ded1c76b007f.png)
+![image](https://user-images.githubusercontent.com/88305396/152166139-92afaad1-06b0-492a-b97c-79315c5a8cc1.png)
+![image](https://user-images.githubusercontent.com/88305396/152166179-36a56b4b-ebda-48c1-b291-6d75c65fec7b.png)
+![image](https://user-images.githubusercontent.com/88305396/152166217-0af79020-c421-45f8-9c85-947f7b89aa7d.png)
